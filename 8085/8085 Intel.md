@@ -1,4 +1,4 @@
-![[figure 8085.png]]
+![figure 8085.png]
 
 - 8 bit [[Microprocessors|Microprocessor]]
 - NMOS (Type of semiconductor used)
