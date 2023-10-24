@@ -1,6 +1,6 @@
 ![figure 8085.png]
 
-- 8 bit [[Microprocessors|Microprocessor]]
+- 8 bit [Microprocessors|Microprocessor]
 - NMOS (Type of semiconductor used)
 - The clock speed is 3 MHz
 - 40 pins
